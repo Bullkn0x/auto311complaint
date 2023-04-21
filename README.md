@@ -15,5 +15,5 @@ This Python script uses Selenium to automate the submission of a Heat/Hot Water 
 3. Install the dependencies `pip install -r requirements.txt` 
 4. Run the script `python complain.py`.
 
-Note: The script assumes that you are running on a Windows machine. If you are using a different operating system, you may need to adjust the path to the ChromeDriver executable.
+Note: The script assumes that you are running on a Windows machine. If you are using a different operating system, you may need to adjust the path to the ChromeDriver executable.  Use at your own discretion 
 
